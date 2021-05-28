@@ -1,0 +1,3 @@
+<mod displayName="Change Spice" unique="chocice75cheattochangespiceofaplanet" description="This mod adds a cheat to change the current planet's spice." installerSystemVersion="1.0.1.1" hasCustomInstaller="true" dllsBuild="2.5.20">
+	<prerequisite>ChangeSpice.dll</prerequisite>
+</mod>
